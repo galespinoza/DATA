@@ -3,127 +3,127 @@
         "id": 44,
         "grupo": "BALANZA_EMBALAJE",
         "tipo": "CTN",
-        "valor": "CTN-Contenedor"
+        "valor": "Contenedor"
     },
     {
         "id": 46,
         "grupo": "BALANZA_EMBALAJE",
         "tipo": "GEN",
-        "valor": "GEN-Carga General"
+        "valor": "Carga General"
     },
     {
         "id": 45,
         "grupo": "BALANZA_EMBALAJE",
         "tipo": "GRN",
-        "valor": "GRN-Granel"
+        "valor": "Granel"
     },
     {
         "id": 48,
         "grupo": "BALANZA_EMBALAJE",
         "tipo": "PZS",
-        "valor": "PZS-Piezas"
+        "valor": "Piezas"
     },
     {
         "id": 49,
         "grupo": "BALANZA_EMBALAJE",
         "tipo": "UNI",
-        "valor": "UNI-Unidades Varias"
+        "valor": "Unidades Varias"
     },
     {
         "id": 47,
         "grupo": "BALANZA_EMBALAJE",
         "tipo": "VEI",
-        "valor": "VEI-RO RO"
+        "valor": "RO RO"
     },
     {
         "id": 29,
         "grupo": "BALANZA_INGRESO",
         "tipo": "93",
-        "valor": "93-CSPCP-GATE INGRESO 01"
+        "valor": "CSPCP-GATE INGRESO 01"
     },
     {
         "id": 30,
         "grupo": "BALANZA_INGRESO",
         "tipo": "94",
-        "valor": "94-CSPCP-GATE INGRESO 02"
+        "valor": "CSPCP-GATE INGRESO 02"
     },
     {
         "id": 31,
         "grupo": "BALANZA_INGRESO",
         "tipo": "95",
-        "valor": "95-CSPCP-GATE INGRESO 03"
+        "valor": "CSPCP-GATE INGRESO 03"
     },
     {
         "id": 32,
         "grupo": "BALANZA_INGRESO",
         "tipo": "96",
-        "valor": "96-CSPCP-GATE INGRESO 04"
+        "valor": "CSPCP-GATE INGRESO 04"
     },
     {
         "id": 33,
         "grupo": "BALANZA_INGRESO",
         "tipo": "97",
-        "valor": "97-CSPCP-GATE INGRESO 05"
+        "valor": "CSPCP-GATE INGRESO 05"
     },
     {
         "id": 34,
         "grupo": "BALANZA_INGRESO",
         "tipo": "98",
-        "valor": "98-CSPCP-GATE INGRESO 06"
+        "valor": "CSPCP-GATE INGRESO 06"
     },
     {
         "id": 35,
         "grupo": "BALANZA_INGRESO",
         "tipo": "99",
-        "valor": "99-CSPCP-GATE INGRESO 07"
+        "valor": "CSPCP-GATE INGRESO 07"
     },
     {
         "id": 36,
         "grupo": "BALANZA_SALIDA",
         "tipo": "A1",
-        "valor": "A1-CSPCP-GATE SALIDA 01"
+        "valor": "CSPCP-GATE SALIDA 01"
     },
     {
         "id": 37,
         "grupo": "BALANZA_SALIDA",
         "tipo": "A2",
-        "valor": "A2-CSPCP-GATE SALIDA 02"
+        "valor": "CSPCP-GATE SALIDA 02"
     },
     {
         "id": 38,
         "grupo": "BALANZA_SALIDA",
         "tipo": "A3",
-        "valor": "A3-CSPCP-GATE SALIDA 03"
+        "valor": "CSPCP-GATE SALIDA 03"
     },
     {
         "id": 39,
         "grupo": "BALANZA_SALIDA",
         "tipo": "A4",
-        "valor": "A4-CSPCP-GATE SALIDA 04"
+        "valor": "CSPCP-GATE SALIDA 04"
     },
     {
         "id": 40,
         "grupo": "BALANZA_SALIDA",
         "tipo": "A5",
-        "valor": "A5-CSPCP-GATE SALIDA 05"
+        "valor": "CSPCP-GATE SALIDA 05"
     },
     {
         "id": 41,
         "grupo": "BALANZA_SALIDA",
         "tipo": "A6",
-        "valor": "A6-CSPCP-GATE SALIDA 06"
+        "valor": "CSPCP-GATE SALIDA 06"
     },
     {
         "id": 42,
         "grupo": "BALANZA_SALIDA",
         "tipo": "A7",
-        "valor": "A7-CSPCP-GATE SALIDA 07"
+        "valor": "CSPCP-GATE SALIDA 07"
     },
     {
         "id": 43,
         "grupo": "BALANZA_SALIDA",
         "tipo": "A8",
-        "valor": "A8-CSPCP-CI 01"
+        "valor": "CSPCP-CI 01"
     },
     {
         "id": 27,
@@ -141,139 +141,139 @@
         "id": 11,
         "grupo": "DOC_COD",
         "tipo": "01",
-        "valor": "01:DESCARGA DE MERCANCIA (NOTA DE TARJA)"
+        "valor": "DESCARGA DE MERCANCIA (NOTA DE TARJA)"
     },
     {
         "id": 12,
         "grupo": "DOC_COD",
         "tipo": "02",
-        "valor": "02:DAM"
+        "valor": "DAM"
     },
     {
         "id": 13,
         "grupo": "DOC_COD",
         "tipo": "03",
-        "valor": "03:RD DE SALIDA (AUTORIZACION DE SALIDA)"
+        "valor": "RD DE SALIDA (AUTORIZACION DE SALIDA)"
     },
     {
         "id": 14,
         "grupo": "DOC_COD",
         "tipo": "99",
-        "valor": "99:OTROS"
+        "valor": "OTROS"
     },
     {
         "id": 1,
         "grupo": "TIPO_SALIDA",
         "tipo": "06",
-        "valor": "06-CIGÜEÑA CON VEHICULOS AL INTERIOR"
+        "valor": "CIGÜEÑA CON VEHICULOS AL INTERIOR"
     },
     {
         "id": 2,
         "grupo": "TIPO_SALIDA",
         "tipo": "07",
-        "valor": "07-VEHICULO POR PROPIOS MEDIOS"
+        "valor": "VEHICULO POR PROPIOS MEDIOS"
     },
     {
         "id": 3,
         "grupo": "TIPO_SALIDA",
         "tipo": "08",
-        "valor": "08-CONTENEDOR VACIO"
+        "valor": "CONTENEDOR VACIO"
     },
     {
         "id": 4,
         "grupo": "TIPO_SALIDA",
         "tipo": "09",
-        "valor": "09-CONTENEDOR CON CARGA"
+        "valor": "CONTENEDOR CON CARGA"
     },
     {
         "id": 5,
         "grupo": "TIPO_SALIDA",
         "tipo": "10",
-        "valor": "10-GRANEL SOLIDOS"
+        "valor": "GRANEL SOLIDOS"
     },
     {
         "id": 6,
         "grupo": "TIPO_SALIDA",
         "tipo": "12",
-        "valor": "12-GRANEL MINERAL"
+        "valor": "GRANEL MINERAL"
     },
     {
         "id": 7,
         "grupo": "TIPO_SALIDA",
         "tipo": "13",
-        "valor": "13-GRANEL LIQUIDOS"
+        "valor": "GRANEL LIQUIDOS"
     },
     {
         "id": 8,
         "grupo": "TIPO_SALIDA",
         "tipo": "99",
-        "valor": "99-CARGA SUELTA"
+        "valor": "CARGA SUELTA"
     },
     {
         "id": 9,
         "grupo": "TIPO_TRASLADO",
         "tipo": "1",
-        "valor": "1:ZONA PRIMARIA"
+        "valor": "ZONA PRIMARIA"
     },
     {
         "id": 10,
         "grupo": "TIPO_TRASLADO",
         "tipo": "2",
-        "valor": "2:???????"
+        "valor": "ZONA SECUNDARIA"
     },
     {
         "id": 16,
         "grupo": "TRANSP_DOC_TIPO",
         "tipo": "3",
-        "valor": "3-DNI"
+        "valor": "DNI"
     },
     {
         "id": 15,
         "grupo": "TRANSP_DOC_TIPO",
         "tipo": "4",
-        "valor": "4-RUC"
+        "valor": "RUC"
     },
     {
         "id": 17,
         "grupo": "TRANSP_TIPO",
         "tipo": "150",
-        "valor": "150-General Cargo Vessel"
+        "valor": "General Cargo Vessel"
     },
     {
         "id": 18,
         "grupo": "TRANSP_TIPO",
         "tipo": "1501",
-        "valor": "1501-Grain Vessel"
+        "valor": "Grain Vessel"
     },
     {
         "id": 19,
         "grupo": "TRANSP_TIPO",
         "tipo": "1512",
-        "valor": "1512-RORO Vessel"
+        "valor": "RORO Vessel"
     },
     {
         "id": 20,
         "grupo": "TRANSP_TIPO",
         "tipo": "152",
-        "valor": "152-Bulk Carrier"
+        "valor": "Bulk Carrier"
     },
     {
         "id": 22,
         "grupo": "TRANSP_TIPO",
         "tipo": "31",
-        "valor": "31-Camion"
+        "valor": "Camion"
     },
     {
         "id": 21,
         "grupo": "TRANSP_TIPO",
         "tipo": "83",
-        "valor": "83-Container Vessel"
+        "valor": "Container Vessel"
     },
     {
         "id": 25,
         "grupo": "TRANSP_TIPO_OP",
         "tipo": "API",
-        "valor": "API-APILAMIENTO DE CONTENEDORES"
+        "valor": "APILAMIENTO DE CONTENEDORES"
     },
     {
         "id": 26,
@@ -285,12 +285,12 @@
         "id": 23,
         "grupo": "TRANSP_TIPO_OP",
         "tipo": "DDI",
-        "valor": "DDI-DESCARGA DIRECTA INTERNACIONAL"
+        "valor": "DESCARGA DIRECTA INTERNACIONAL"
     },
     {
         "id": 24,
         "grupo": "TRANSP_TIPO_OP",
         "tipo": "DII",
-        "valor": "DII-DESCARGA INDIRECTA INTERNACIONAL"
+        "valor": "DESCARGA INDIRECTA INTERNACIONAL"
     }
 ]
