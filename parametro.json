@@ -1,0 +1,146 @@
+[
+  {
+    "id_parametro": 1,
+    "tipo_parametro": 1,
+    "cod_parametro": "4",
+    "valor1_parametro": "E",
+    "valor2_parametro": "MT",
+    "valor3_parametro": null,
+    "descripcion_parametro": "VACÍO"
+  },
+  {
+    "id_parametro": 2,
+    "tipo_parametro": 1,
+    "cod_parametro": "5",
+    "valor1_parametro": "F",
+    "valor2_parametro": "Full",
+    "valor3_parametro": null,
+    "descripcion_parametro": "LLENO"
+  },
+  {
+    "id_parametro": 3,
+    "tipo_parametro": 1,
+    "cod_parametro": "7",
+    "valor1_parametro": "F",
+    "valor2_parametro": "Full",
+    "valor3_parametro": null,
+    "descripcion_parametro": "LLENO CARGA MIXTA LCL"
+  },
+  {
+    "id_parametro": 4,
+    "tipo_parametro": 1,
+    "cod_parametro": "8",
+    "valor1_parametro": "F",
+    "valor2_parametro": "Full",
+    "valor3_parametro": null,
+    "descripcion_parametro": "LLENO CARGA UNICA FCL"
+  },
+  {
+    "id_parametro": 5,
+    "tipo_parametro": 1,
+    "cod_parametro": "9",
+    "valor1_parametro": "F",
+    "valor2_parametro": "Full",
+    "valor3_parametro": null,
+    "descripcion_parametro": "PARCIAL CARGA UNICA"
+  },
+  {
+    "id_parametro": 6,
+    "tipo_parametro": 1,
+    "cod_parametro": "10",
+    "valor1_parametro": "F",
+    "valor2_parametro": "Full",
+    "valor3_parametro": null,
+    "descripcion_parametro": "PARCIAL CARGA MIXTA"
+  },
+  {
+    "id_parametro": 7,
+    "tipo_parametro": 1,
+    "cod_parametro": "13",
+    "valor1_parametro": "F",
+    "valor2_parametro": "Full",
+    "valor3_parametro": null,
+    "descripcion_parametro": "LLENO CON VARIOS BL MISMO CONSIGNATARIO"
+  },
+  {
+    "id_parametro": 8,
+    "tipo_parametro": 2,
+    "cod_parametro": "MT",
+    "valor1_parametro": "E",
+    "valor2_parametro": null,
+    "valor3_parametro": null,
+    "descripcion_parametro": "VACÍO"
+  },
+  {
+    "id_parametro": 9,
+    "tipo_parametro": 2,
+    "cod_parametro": "Full",
+    "valor1_parametro": "F",
+    "valor2_parametro": null,
+    "valor3_parametro": null,
+    "descripcion_parametro": "LLENO"
+  },
+  {
+    "id_parametro": 10,
+    "tipo_parametro": 3,
+    "cod_parametro": "20510927754",
+    "valor1_parametro": "CMA",
+    "valor2_parametro": null,
+    "valor3_parametro": null,
+    "descripcion_parametro": "CMA CGM PERU SAC"
+  },
+  {
+    "id_parametro": 11,
+    "tipo_parametro": 3,
+    "cod_parametro": "20335082801",
+    "valor1_parametro": "COS",
+    "valor2_parametro": null,
+    "valor3_parametro": null,
+    "descripcion_parametro": "COSCO SHIPPING LINES (PERU) S.A"
+  },
+  {
+    "id_parametro": 12,
+    "tipo_parametro": 4,
+    "cod_parametro": "PECHY",
+    "valor1_parametro": "CHANCAY",
+    "valor2_parametro": "PUERTO",
+    "valor3_parametro": null,
+    "descripcion_parametro": "PERU"
+  },
+  {
+    "id_parametro": 13,
+    "tipo_parametro": 4,
+    "cod_parametro": "PEMRI",
+    "valor1_parametro": "MATARANI",
+    "valor2_parametro": "PUERTO",
+    "valor3_parametro": null,
+    "descripcion_parametro": "PERU"
+  },
+  {
+    "id_parametro": 14,
+    "tipo_parametro": 4,
+    "cod_parametro": "PEPAI",
+    "valor1_parametro": "PAITA",
+    "valor2_parametro": "PUERTO",
+    "valor3_parametro": null,
+    "descripcion_parametro": "PERU"
+  },
+  {
+    "id_parametro": 15,
+    "tipo_parametro": 4,
+    "cod_parametro": "PECAL",
+    "valor1_parametro": "CALLAO",
+    "valor2_parametro": "PUERTO",
+    "valor3_parametro": null,
+    "descripcion_parametro": "PERU"
+  },
+  {
+    "id_parametro": 16,
+    "tipo_parametro": 4,
+    "cod_parametro": "PEILQ",
+    "valor1_parametro": "ILO",
+    "valor2_parametro": "PUERTO",
+    "valor3_parametro": null,
+    "descripcion_parametro": "PERU"
+  }
+]

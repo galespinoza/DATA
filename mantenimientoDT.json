@@ -1,0 +1,322 @@
+[
+  {
+    "ruc": "20601733391",
+    "role_code": 31,
+    "codigo_deposito": 4406,
+    "razon_social": "CISTERNA DEL MAR S.A.C.",
+    "tipo_operador": "ALMACEN ADUANERO > DEPOSITO TEMPORAL",
+    "estado": "AUTORIZADO"
+  },
+  {
+    "ruc": "20100003199",
+    "role_code": 31,
+    "codigo_deposito": 3344,
+    "razon_social": "EMP NACIONAL DE PUERTOS S A",
+    "tipo_operador": "ALMACEN ADUANERO > DEPOSITO TEMPORAL",
+    "estado": "AUTORIZADO"
+  },
+  {
+    "ruc": "20101395031",
+    "role_code": 31,
+    "codigo_deposito": 3731,
+    "razon_social": "TRABAJOS MARITIMOS S.A.",
+    "tipo_operador": "ALMACEN ADUANERO > DEPOSITO TEMPORAL",
+    "estado": "AUTORIZADO"
+  },
+  {
+    "ruc": "20100010217",
+    "role_code": 31,
+    "codigo_deposito": 4918,
+    "razon_social": "DP WORLD LOGISTICS S.R.L.",
+    "tipo_operador": "ALMACEN ADUANERO > DEPOSITO TEMPORAL",
+    "estado": "AUTORIZADO"
+  },
+  {
+    "ruc": "20100039207",
+    "role_code": 31,
+    "codigo_deposito": 4831,
+    "razon_social": "RANSA COMERCIAL S.A.C",
+    "tipo_operador": "ALMACEN ADUANERO > DEPOSITO TEMPORAL",
+    "estado": "AUTORIZADO"
+  },
+  {
+    "ruc": "20100044626",
+    "role_code": 31,
+    "codigo_deposito": 4410,
+    "razon_social": "DEPOSITOS S.A.C.",
+    "tipo_operador": "ALMACEN ADUANERO > DEPOSITO TEMPORAL",
+    "estado": "AUTORIZADO"
+  },
+  {
+    "ruc": "20100147514",
+    "role_code": 31,
+    "codigo_deposito": 3401,
+    "razon_social": "SOUTHERN PERU COPPER CORPORATION, SUCURSAL DEL PERÚ",
+    "tipo_operador": "ALMACEN ADUANERO > DEPOSITO TEMPORAL",
+    "estado": "AUTORIZADO"
+  },
+  {
+    "ruc": "20100412447",
+    "role_code": 31,
+    "codigo_deposito": 4850,
+    "razon_social": "UNIMAR S A",
+    "tipo_operador": "ALMACEN ADUANERO > DEPOSITO TEMPORAL",
+    "estado": "AUTORIZADO"
+  },
+  {
+    "ruc": "20101128777",
+    "role_code": 31,
+    "codigo_deposito": 3617,
+    "razon_social": "DHL EXPRESS PERÚ S.A.C.",
+    "tipo_operador": "ALMACEN ADUANERO > DEPOSITO TEMPORAL",
+    "estado": "AUTORIZADO"
+  },
+  {
+    "ruc": "20175140591",
+    "role_code": 31,
+    "codigo_deposito": 3750,
+    "razon_social": "COLPEX INTERNATIONAL S.A.C.",
+    "tipo_operador": "ALMACEN ADUANERO > DEPOSITO TEMPORAL",
+    "estado": "AUTORIZADO"
+  },
+  {
+    "ruc": "20182077705",
+    "role_code": 31,
+    "codigo_deposito": 3306,
+    "razon_social": "ALMACENES MUNDO S.A.",
+    "tipo_operador": "ALMACEN ADUANERO > DEPOSITO TEMPORAL",
+    "estado": "AUTORIZADO"
+  },
+  {
+    "ruc": "20195130419",
+    "role_code": 31,
+    "codigo_deposito": 3602,
+    "razon_social": "MALAGA HNOS. S.R.LTDA.",
+    "tipo_operador": "ALMACEN ADUANERO > DEPOSITO TEMPORAL",
+    "estado": "AUTORIZADO"
+  },
+  {
+    "ruc": "20256136865",
+    "role_code": 31,
+    "codigo_deposito": 3545,
+    "razon_social": "SERVICIOS POSTALES DEL PERU SOCIEDAD ANONIMA     SERPOST S.A.",
+    "tipo_operador": "ALMACEN ADUANERO > DEPOSITO TEMPORAL",
+    "estado": "AUTORIZADO"
+  },
+  {
+    "ruc": "20259171891",
+    "role_code": 31,
+    "codigo_deposito": 4865,
+    "razon_social": "INVERS.MARITIMAS UNIVERSALES PERU S.A",
+    "tipo_operador": "ALMACEN ADUANERO > DEPOSITO TEMPORAL",
+    "estado": "AUTORIZADO"
+  },
+  {
+    "ruc": "20347646891",
+    "role_code": 31,
+    "codigo_deposito": 3727,
+    "razon_social": "MEDLOG PERU S.A.",
+    "tipo_operador": "ALMACEN ADUANERO > DEPOSITO TEMPORAL",
+    "estado": "AUTORIZADO"
+  },
+  {
+    "ruc": "20513462388",
+    "role_code": 31,
+    "codigo_deposito": 4004,
+    "razon_social": "DP WORLD CALLAO S.R.L.",
+    "tipo_operador": "ALMACEN ADUANERO > DEPOSITO TEMPORAL",
+    "estado": "AUTORIZADO"
+  },
+  {
+    "ruc": "20522473571",
+    "role_code": 31,
+    "codigo_deposito": 3966,
+    "razon_social": "TERMINALES PORTUARIOS EUROANDINOS PAITA S.A. - TPE PAITA S.A.",
+    "tipo_operador": "ALMACEN ADUANERO > DEPOSITO TEMPORAL",
+    "estado": "AUTORIZADO"
+  },
+  {
+    "ruc": "20543083888",
+    "role_code": 31,
+    "codigo_deposito": 3014,
+    "razon_social": "APM TERMINALS CALLAO SOCIEDAD ANONIMA",
+    "tipo_operador": "ALMACEN ADUANERO > DEPOSITO TEMPORAL",
+    "estado": "AUTORIZADO"
+  },
+  {
+    "ruc": "20562916360",
+    "role_code": 31,
+    "codigo_deposito": 4205,
+    "razon_social": "TERMINAL PORTUARIO PARACAS S.A.",
+    "tipo_operador": "ALMACEN ADUANERO > DEPOSITO TEMPORAL",
+    "estado": "AUTORIZADO"
+  },
+  {
+    "ruc": "20508782013",
+    "role_code": 31,
+    "codigo_deposito": 4960,
+    "razon_social": "VILLAS OQUENDO S.A.",
+    "tipo_operador": "ALMACEN ADUANERO > DEPOSITO TEMPORAL",
+    "estado": "AUTORIZADO"
+  },
+  {
+    "ruc": "20507646051",
+    "role_code": 31,
+    "codigo_deposito": 4846,
+    "razon_social": "TERMINALES PORTUARIOS PERUANOS SAC",
+    "tipo_operador": "ALMACEN ADUANERO > DEPOSITO TEMPORAL",
+    "estado": "AUTORIZADO"
+  },
+  {
+    "ruc": "20518156706",
+    "role_code": 31,
+    "codigo_deposito": 4884,
+    "razon_social": "DT DINETPERU S.A.C.",
+    "tipo_operador": "ALMACEN ADUANERO > DEPOSITO TEMPORAL",
+    "estado": "AUTORIZADO"
+  },
+  {
+    "ruc": "20504363903",
+    "role_code": 31,
+    "codigo_deposito": 5013,
+    "razon_social": "SAKJ DEPOT S.A.C.",
+    "tipo_operador": "ALMACEN ADUANERO > DEPOSITO TEMPORAL",
+    "estado": "AUTORIZADO"
+  },
+  {
+    "ruc": "20603801351",
+    "role_code": 31,
+    "codigo_deposito": 4459,
+    "razon_social": "ROAD FEEDER SERVICES S.A.C.",
+    "tipo_operador": "ALMACEN ADUANERO > DEPOSITO TEMPORAL",
+    "estado": "AUTORIZADO"
+  },
+  {
+    "ruc": "20101520898",
+    "role_code": 31,
+    "codigo_deposito": 4980,
+    "razon_social": "FARGOLINE SOCIEDAD ANONIMA - FARGOLINE S.A.",
+    "tipo_operador": "ALMACEN ADUANERO > DEPOSITO TEMPORAL",
+    "estado": "AUTORIZADO"
+  },
+  {
+    "ruc": "20600221176",
+    "role_code": 31,
+    "codigo_deposito": 4258,
+    "razon_social": "TERMINAL DE ALMACENAMIENTO PARACAS S.A.C. - TALPA",
+    "tipo_operador": "ALMACEN ADUANERO > DEPOSITO TEMPORAL",
+    "estado": "AUTORIZADO"
+  },
+  {
+    "ruc": "20569166951",
+    "role_code": 31,
+    "codigo_deposito": 4152,
+    "razon_social": "TERMINAL PORTUARIO DE CHIMBOTE",
+    "tipo_operador": "ALMACEN ADUANERO > DEPOSITO TEMPORAL",
+    "estado": "AUTORIZADO"
+  },
+  {
+    "ruc": "20603487321",
+    "role_code": 31,
+    "codigo_deposito": 4349,
+    "razon_social": "SALAVERRY TERMINAL INTERNACIONAL S.A.",
+    "tipo_operador": "ALMACEN ADUANERO > DEPOSITO TEMPORAL",
+    "estado": "AUTORIZADO"
+  },
+  {
+    "ruc": "20600823681",
+    "role_code": 31,
+    "codigo_deposito": 4239,
+    "razon_social": "J A S ALMACENES S.A.",
+    "tipo_operador": "ALMACEN ADUANERO > DEPOSITO TEMPORAL",
+    "estado": "AUTORIZADO"
+  },
+  {
+    "ruc": "20392952455",
+    "role_code": 31,
+    "codigo_deposito": 4937,
+    "razon_social": "CONTRANS S.A.C.",
+    "tipo_operador": "ALMACEN ADUANERO > DEPOSITO TEMPORAL",
+    "estado": "AUTORIZADO"
+  },
+  {
+    "ruc": "20506377600",
+    "role_code": 31,
+    "codigo_deposito": 4975,
+    "razon_social": "IMPALA TERMINALS PERU S.A.C.",
+    "tipo_operador": "ALMACEN ADUANERO > DEPOSITO TEMPORAL",
+    "estado": "AUTORIZADO"
+  },
+  {
+    "ruc": "20428500475",
+    "role_code": 31,
+    "codigo_deposito": 3579,
+    "razon_social": "TERMINAL INTERNACIONAL DEL SUR S.A.",
+    "tipo_operador": "ALMACEN ADUANERO > DEPOSITO TEMPORAL",
+    "estado": "AUTORIZADO"
+  },
+  {
+    "ruc": "20552956461",
+    "role_code": 31,
+    "codigo_deposito": 5032,
+    "razon_social": "LOGISTIC INDUSTRY & MINING SOCIEDAD ANONIMA - LOGISMINSA S.A.",
+    "tipo_operador": "ALMACEN ADUANERO > DEPOSITO TEMPORAL",
+    "estado": "AUTORIZADO"
+  },
+  {
+    "ruc": "20543244300",
+    "role_code": 31,
+    "codigo_deposito": 5047,
+    "razon_social": "COSCO SHIPPING PORTS CHANCAY PERU S.A.",
+    "tipo_operador": "ALMACEN ADUANERO > DEPOSITO TEMPORAL",
+    "estado": "AUTORIZADO"
+  },
+  {
+    "ruc": "20605786937",
+    "role_code": 31,
+    "codigo_deposito": 4588,
+    "razon_social": "NEW AGE CENTRO LOGISTICO S.A.C.",
+    "tipo_operador": "ALMACEN ADUANERO > DEPOSITO TEMPORAL",
+    "estado": "AUTORIZADO"
+  },
+  {
+    "ruc": "20478205377",
+    "role_code": 31,
+    "codigo_deposito": 5066,
+    "razon_social": "MERKUR LOGISTICS SOCIEDAD ANONIMA CERRADA - MERKUR LOGISTICS S.A.C.",
+    "tipo_operador": "ALMACEN ADUANERO > DEPOSITO TEMPORAL",
+    "estado": "AUTORIZADO"
+  },
+  {
+    "ruc": "20606777257",
+    "role_code": 31,
+    "codigo_deposito": 5009,
+    "razon_social": "ALMACENES FORWARDER S.A.C.",
+    "tipo_operador": "ALMACEN ADUANERO > DEPOSITO TEMPORAL",
+    "estado": "AUTORIZADO"
+  },
+  {
+    "ruc": "20605225986",
+    "role_code": 31,
+    "codigo_deposito": 4956,
+    "razon_social": "OPERADORES LOGISTIX PERU S.A.C.",
+    "tipo_operador": "ALMACEN ADUANERO > DEPOSITO TEMPORAL",
+    "estado": "AUTORIZADO"
+  },
+  {
+    "ruc": "20518254970",
+    "role_code": 31,
+    "codigo_deposito": 4994,
+    "razon_social": "INFINIA OPERADOR LOGÍSTICO S.A.",
+    "tipo_operador": "ALMACEN ADUANERO > DEPOSITO TEMPORAL",
+    "estado": "AUTORIZADO"
+  },
+  {
+    "ruc": "20107012011",
+    "role_code": 31,
+    "codigo_deposito": 5028,
+    "razon_social": "MAERSK LOGISTICS & SERVICES PERU S.A.",
+    "tipo_operador": "ALMACEN ADUANERO > DEPOSITO TEMPORAL",
+    "estado": "AUTORIZADO"
+  }
+]
