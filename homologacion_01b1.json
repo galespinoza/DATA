@@ -134,7 +134,7 @@
     },
     {
         "campoDestino": "txtPrecinto",
-        "etiquetasPdf": "Precinto:|Precintos:",
+        "etiquetasPdf": "Precinto:|Precintos:|P Aduana:",
         "tipoDato": "ALFANUMERICO",
         "reglaExtraccion": "DIRECTO",
         "aplicaLectura": 1
