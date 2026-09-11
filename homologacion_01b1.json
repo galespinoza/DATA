@@ -1,261 +1,261 @@
 [
-    {
-        "campoDestino": "txtNroTicket",
-        "etiquetasPdf": "N[^a-zA-Z0-9]*ticket:|Ticket:",
-        "tipoDato": "ALFANUMERICO",
-        "reglaExtraccion": "DIRECTO",
-        "aplicaLectura": 1
-    },
-    {
-        "campoDestino": "txtChoferBrevete",
-        "etiquetasPdf": "Lic de conducir:|conducir",
-        "tipoDato": "ALFANUMERICO",
-        "reglaExtraccion": "DIRECTO",
-        "aplicaLectura": 1
-    },
-    {
-        "campoDestino": "txtBlDoc",
-        "etiquetasPdf": "Booking/BL:",
-        "tipoDato": "ALFANUMERICO",
-        "reglaExtraccion": "DIRECTO",
-        "aplicaLectura": 1
-    },
-    {
-        "campoDestino": "txtPeso1",
-        "etiquetasPdf": "Tara Veh:",
-        "tipoDato": "NUMERICO",
-        "reglaExtraccion": "DIRECTO",
-        "aplicaLectura": 1
-    },
-    {
-        "campoDestino": "txtPeso2",
-        "etiquetasPdf": "Peso Bruto:",
-        "tipoDato": "NUMERICO",
-        "reglaExtraccion": "DIRECTO",
-        "aplicaLectura": 1
-    },
-    {
-        "campoDestino": "txtTranspTara",
-        "etiquetasPdf": "Tara Veh:",
-        "tipoDato": "NUMERICO",
-        "reglaExtraccion": "DIRECTO",
-        "aplicaLectura": 1
-    },
-    {
-        "campoDestino": "txtPesoNeto",
-        "etiquetasPdf": "Peso Neto Carga:",
-        "tipoDato": "NUMERICO",
-        "reglaExtraccion": "DIRECTO",
-        "aplicaLectura": 1
-    },
-    {
-        "campoDestino": "txtCantBultos",
-        "etiquetasPdf": "N[^a-zA-Z0-9]*bultos:",
-        "tipoDato": "NUMERICO",
-        "reglaExtraccion": "DIRECTO",
-        "aplicaLectura": 1
-    },
-    {
-        "campoDestino": "txtDeclaNro",
-        "etiquetasPdf": "N[^a-zA-Z0-9]*de DAM:",
-        "tipoDato": "ALFANUMERICO",
-        "reglaExtraccion": "DESPUES_DEL_GUION",
-        "aplicaLectura": 1
-    },
-    {
-        "campoDestino": "txtManiNro",
-        "etiquetasPdf": "N[^a-zA-Z0-9]*Mfto:|Mfto:|Mani[^a-zA-Z0-9]*fiesto:|Manifiesto:",
-        "tipoDato": "ALFANUMERICO",
-        "reglaExtraccion": "DESPUES_DEL_GUION",
-        "aplicaLectura": 1
-    },
-    {
-        "campoDestino": "txtLugarRuc",
-        "etiquetasPdf": "RUC destinatario:|RUC remitente:|RUC importador:",
-        "tipoDato": "NUMERICO",
-        "reglaExtraccion": "DIRECTO",
-        "aplicaLectura": 1
-    },
-    {
-        "campoDestino": "txtLugarDir",
-        "etiquetasPdf": "Dir Llegada:",
-        "tipoDato": "ALFANUMERICO",
-        "reglaExtraccion": "DIRECTO",
-        "aplicaLectura": 1
-    },
-    {
-        "campoDestino": "txtLugarUbigeo",
-        "etiquetasPdf": "Ubigeo:",
-        "tipoDato": "ALFANUMERICO",
-        "reglaExtraccion": "DIRECTO",
-        "aplicaLectura": 1
-    },
-    {
-        "campoDestino": "cbTranspTipoOp",
-        "etiquetasPdf": "Cod Dep \\(SUNAT\\):",
-        "tipoDato": "ALFANUMERICO",
-        "reglaExtraccion": "DIRECTO",
-        "aplicaLectura": 0
-    },
-    {
-        "campoDestino": "txtFechaEmision",
-        "etiquetasPdf": "Fecha:|Fecha Emisión:",
-        "tipoDato": "FECHA",
-        "reglaExtraccion": "DIRECTO",
-        "aplicaLectura": 0
-    },
-    {
-        "campoDestino": "txtFechaCita",
-        "etiquetasPdf": "Fecha:",
-        "tipoDato": "FECHA",
-        "reglaExtraccion": "DIRECTO",
-        "aplicaLectura": 1
-    },
-    {
-        "campoDestino": "txtFecIngreso",
-        "etiquetasPdf": "Fec. Ingreso:",
-        "tipoDato": "FECHA",
-        "reglaExtraccion": "DIRECTO",
-        "aplicaLectura": 1
-    },
-    {
-        "campoDestino": "txtFecSalida",
-        "etiquetasPdf": "Fec. Salida:",
-        "tipoDato": "FECHA",
-        "reglaExtraccion": "DIRECTO",
-        "aplicaLectura": 1
-    },
-    {
-        "campoDestino": "txtNroContenedor",
-        "etiquetasPdf": "N° Cnt-tp eq:|Contenedor:",
-        "tipoDato": "ALFANUMERICO",
-        "reglaExtraccion": "ANTES_DEL_GUION",
-        "aplicaLectura": 1
-    },
-    {
-        "campoDestino": "txtPrecinto",
-        "etiquetasPdf": "Precinto:|Precintos:|P Aduana:",
-        "tipoDato": "ALFANUMERICO",
-        "reglaExtraccion": "DIRECTO",
-        "aplicaLectura": 1
-    },
-    {
-        "campoDestino": "txtTaraContenedor",
-        "etiquetasPdf": "Tara Contenedor:|Tara Cnt:|Tara Ctr:",
-        "tipoDato": "NUMERICO",
-        "reglaExtraccion": "DIRECTO",
-        "aplicaLectura": 1
-    },
-    {
-        "campoDestino": "txtChasis",
-        "etiquetasPdf": "Chasis:",
-        "tipoDato": "ALFANUMERICO",
-        "reglaExtraccion": "DIRECTO",
-        "aplicaLectura": 0
-    },
-    {
-        "campoDestino": "cbCodEmbalaje",
-        "etiquetasPdf": "Embalaje:|Cod Embalaje:",
-        "tipoDato": "ALFANUMERICO",
-        "reglaExtraccion": "DIRECTO",
-        "aplicaLectura": 0
-    },
-    {
-        "campoDestino": "txtBlDetalle",
-        "etiquetasPdf": "BL N° Detalle:|Booking/BL:",
-        "tipoDato": "ALFANUMERICO",
-        "reglaExtraccion": "DIRECTO",
-        "aplicaLectura": 0
-    },
-    {
-        "campoDestino": "txtPlacaCamion",
-        "etiquetasPdf": "Placa Camión:|Placa:",
-        "tipoDato": "ALFANUMERICO",
-        "reglaExtraccion": "DIRECTO",
-        "aplicaLectura": 1
-    },
-    {
-        "campoDestino": "txtNombreChofer",
-        "etiquetasPdf": "Nombre Chofer:|Chofer:",
-        "tipoDato": "ALFANUMERICO",
-        "reglaExtraccion": "DIRECTO",
-        "aplicaLectura": 1
-    },
-    {
-        "campoDestino": "txtDocChofer",
-        "etiquetasPdf": "Doc Chofer:|DNI:",
-        "tipoDato": "NUMERICO",
-        "reglaExtraccion": "DIRECTO",
-        "aplicaLectura": 1
-    },
-    {
-        "campoDestino": "cbTipoTransporte",
-        "etiquetasPdf": "Tipo Transporte:",
-        "tipoDato": "ALFANUMERICO",
-        "reglaExtraccion": "DIRECTO",
-        "aplicaLectura": 0
-    },
-    {
-        "campoDestino": "txtDocTransp",
-        "etiquetasPdf": "Doc Transp:|RUC Transportista:",
-        "tipoDato": "NUMERICO",
-        "reglaExtraccion": "DIRECTO",
-        "aplicaLectura": 1
-    },
-    {
-        "campoDestino": "txtDocRemitente",
-        "etiquetasPdf": "Doc Remitente:|Remitente:",
-        "tipoDato": "NUMERICO",
-        "reglaExtraccion": "DIRECTO",
-        "aplicaLectura": 1
-    },
-    {
-        "campoDestino": "txtDocDestinatario",
-        "etiquetasPdf": "Doc Destinatario:|Destinatario:",
-        "tipoDato": "NUMERICO",
-        "reglaExtraccion": "DIRECTO",
-        "aplicaLectura": 1
-    },
-    {
-        "campoDestino": "txtDocImportador",
-        "etiquetasPdf": "Doc Importador:|Importador:",
-        "tipoDato": "NUMERICO",
-        "reglaExtraccion": "DIRECTO",
-        "aplicaLectura": 1
-    },
-    {
-        "campoDestino": "txtRucPtoLlegada",
-        "etiquetasPdf": "RUC Pto Llegada:",
-        "tipoDato": "NUMERICO",
-        "reglaExtraccion": "DIRECTO",
-        "aplicaLectura": 1
-    },
-    {
-        "campoDestino": "txtNroCita",
-        "etiquetasPdf": "Número de Cita:|Nro Cita:",
-        "tipoDato": "NUMERICO",
-        "reglaExtraccion": "DIRECTO",
-        "aplicaLectura": 1
-    },
-    {
-        "campoDestino": "txtNroAutorizaOperador",
-        "etiquetasPdf": "N° Autoriza Operador:|Autoriza Operador:",
-        "tipoDato": "NUMERICO",
-        "reglaExtraccion": "DIRECTO",
-        "aplicaLectura": 1
-    },
-    {
-        "campoDestino": "txtAnioDam",
-        "etiquetasPdf": "Año DAM:|Anio DAM:",
-        "tipoDato": "NUMERICO",
-        "reglaExtraccion": "DIRECTO",
-        "aplicaLectura": 1
-    },
-    {
-        "campoDestino": "txtAnioManifiesto",
-        "etiquetasPdf": "Mfto:",
-        "tipoDato": "FECHA",
-        "reglaExtraccion": "ANTES_DEL_GUION",
-        "aplicaLectura": 1
-    }
+  {
+    "campoDestino": "txtNroTicket",
+    "etiquetasPdf": "N[^a-zA-Z0-9]*ticket:|Ticket:",
+    "tipoDato": "ALFANUMERICO",
+    "reglaExtraccion": "DIRECTO",
+    "aplicaLectura": 1
+  },
+  {
+    "campoDestino": "txtChoferBrevete",
+    "etiquetasPdf": "Lic de conducir:|conducir",
+    "tipoDato": "ALFANUMERICO",
+    "reglaExtraccion": "DIRECTO",
+    "aplicaLectura": 1
+  },
+  {
+    "campoDestino": "txtBlDoc",
+    "etiquetasPdf": "Booking/BL:",
+    "tipoDato": "ALFANUMERICO",
+    "reglaExtraccion": "DIRECTO",
+    "aplicaLectura": 1
+  },
+  {
+    "campoDestino": "txtPeso1",
+    "etiquetasPdf": "Tara Veh:",
+    "tipoDato": "NUMERICO",
+    "reglaExtraccion": "DIRECTO",
+    "aplicaLectura": 1
+  },
+  {
+    "campoDestino": "txtPeso2",
+    "etiquetasPdf": "Peso Bruto:",
+    "tipoDato": "NUMERICO",
+    "reglaExtraccion": "DIRECTO",
+    "aplicaLectura": 1
+  },
+  {
+    "campoDestino": "txtTranspTara",
+    "etiquetasPdf": "Tara Veh:",
+    "tipoDato": "NUMERICO",
+    "reglaExtraccion": "DIRECTO",
+    "aplicaLectura": 1
+  },
+  {
+    "campoDestino": "txtPesoNeto",
+    "etiquetasPdf": "Peso Neto Carga:",
+    "tipoDato": "NUMERICO",
+    "reglaExtraccion": "DIRECTO",
+    "aplicaLectura": 1
+  },
+  {
+    "campoDestino": "txtCantBultos",
+    "etiquetasPdf": "N[^a-zA-Z0-9]*bultos:",
+    "tipoDato": "NUMERICO",
+    "reglaExtraccion": "DIRECTO",
+    "aplicaLectura": 1
+  },
+  {
+    "campoDestino": "txtDeclaNro",
+    "etiquetasPdf": "N[^a-zA-Z0-9]*de DAM:",
+    "tipoDato": "ALFANUMERICO",
+    "reglaExtraccion": "DESPUES_DEL_GUION",
+    "aplicaLectura": 1
+  },
+  {
+    "campoDestino": "txtManiNro",
+    "etiquetasPdf": "N[^a-zA-Z0-9]*Mfto:|Mfto:|Mani[^a-zA-Z0-9]*fiesto:|Manifiesto:",
+    "tipoDato": "ALFANUMERICO",
+    "reglaExtraccion": "DESPUES_DEL_GUION",
+    "aplicaLectura": 1
+  },
+  {
+    "campoDestino": "txtLugarRuc",
+    "etiquetasPdf": "RUC destinatario:|RUC remitente:|RUC importador:",
+    "tipoDato": "NUMERICO",
+    "reglaExtraccion": "DIRECTO",
+    "aplicaLectura": 1
+  },
+  {
+    "campoDestino": "txtLugarDir",
+    "etiquetasPdf": "Dir Llegada:",
+    "tipoDato": "ALFANUMERICO",
+    "reglaExtraccion": "DIRECTO",
+    "aplicaLectura": 1
+  },
+  {
+    "campoDestino": "txtLugarUbigeo",
+    "etiquetasPdf": "Ubigeo:",
+    "tipoDato": "ALFANUMERICO",
+    "reglaExtraccion": "DIRECTO",
+    "aplicaLectura": 1
+  },
+  {
+    "campoDestino": "cbTranspTipoOp",
+    "etiquetasPdf": "Cod Dep \\(SUNAT\\):",
+    "tipoDato": "ALFANUMERICO",
+    "reglaExtraccion": "DIRECTO",
+    "aplicaLectura": 0
+  },
+  {
+    "campoDestino": "txtFechaEmision",
+    "etiquetasPdf": "Fecha:|Fecha Emisión:",
+    "tipoDato": "FECHA",
+    "reglaExtraccion": "DIRECTO",
+    "aplicaLectura": 0
+  },
+  {
+    "campoDestino": "txtFechaCita",
+    "etiquetasPdf": "Fecha:",
+    "tipoDato": "FECHA",
+    "reglaExtraccion": "DIRECTO",
+    "aplicaLectura": 1
+  },
+  {
+    "campoDestino": "txtFecIngreso",
+    "etiquetasPdf": "Fec. Ingreso:",
+    "tipoDato": "FECHA",
+    "reglaExtraccion": "DIRECTO",
+    "aplicaLectura": 1
+  },
+  {
+    "campoDestino": "txtFecSalida",
+    "etiquetasPdf": "Fec. Salida:",
+    "tipoDato": "FECHA",
+    "reglaExtraccion": "DIRECTO",
+    "aplicaLectura": 1
+  },
+  {
+    "campoDestino": "txtNroContenedor",
+    "etiquetasPdf": "N° Cnt-tp eq:|Contenedor:",
+    "tipoDato": "ALFANUMERICO",
+    "reglaExtraccion": "ANTES_DEL_GUION",
+    "aplicaLectura": 1
+  },
+  {
+    "campoDestino": "txtPrecinto",
+    "etiquetasPdf": "Precinto:|Precintos:|P Aduana:",
+    "tipoDato": "ALFANUMERICO",
+    "reglaExtraccion": "DIRECTO",
+    "aplicaLectura": 1
+  },
+  {
+    "campoDestino": "txtTaraContenedor",
+    "etiquetasPdf": "Tara Contenedor:|Tara Cnt:|Tara Ctr:",
+    "tipoDato": "NUMERICO",
+    "reglaExtraccion": "DIRECTO",
+    "aplicaLectura": 1
+  },
+  {
+    "campoDestino": "txtChasis",
+    "etiquetasPdf": "Chasis:",
+    "tipoDato": "ALFANUMERICO",
+    "reglaExtraccion": "DIRECTO",
+    "aplicaLectura": 0
+  },
+  {
+    "campoDestino": "cbCodEmbalaje",
+    "etiquetasPdf": "Embalaje:|Cod Embalaje:",
+    "tipoDato": "ALFANUMERICO",
+    "reglaExtraccion": "DIRECTO",
+    "aplicaLectura": 0
+  },
+  {
+    "campoDestino": "txtBlDetalle",
+    "etiquetasPdf": "BL N° Detalle:|Booking/BL:",
+    "tipoDato": "ALFANUMERICO",
+    "reglaExtraccion": "DIRECTO",
+    "aplicaLectura": 0
+  },
+  {
+    "campoDestino": "txtPlacaCamion",
+    "etiquetasPdf": "Placa Camión:|Placa:",
+    "tipoDato": "ALFANUMERICO",
+    "reglaExtraccion": "DIRECTO",
+    "aplicaLectura": 1
+  },
+  {
+    "campoDestino": "txtNombreChofer",
+    "etiquetasPdf": "Nombre Chofer:|Chofer:",
+    "tipoDato": "ALFANUMERICO",
+    "reglaExtraccion": "DIRECTO",
+    "aplicaLectura": 1
+  },
+  {
+    "campoDestino": "txtDocChofer",
+    "etiquetasPdf": "Doc Chofer:|DNI:",
+    "tipoDato": "NUMERICO",
+    "reglaExtraccion": "DIRECTO",
+    "aplicaLectura": 1
+  },
+  {
+    "campoDestino": "cbTipoTransporte",
+    "etiquetasPdf": "Tipo Transporte:",
+    "tipoDato": "ALFANUMERICO",
+    "reglaExtraccion": "DIRECTO",
+    "aplicaLectura": 0
+  },
+  {
+    "campoDestino": "txtDocTransp",
+    "etiquetasPdf": "Doc Transp:|RUC Transportista:",
+    "tipoDato": "NUMERICO",
+    "reglaExtraccion": "DIRECTO",
+    "aplicaLectura": 1
+  },
+  {
+    "campoDestino": "txtDocRemitente",
+    "etiquetasPdf": "Doc Remitente:|Remitente:",
+    "tipoDato": "NUMERICO",
+    "reglaExtraccion": "DIRECTO",
+    "aplicaLectura": 1
+  },
+  {
+    "campoDestino": "txtDocDestinatario",
+    "etiquetasPdf": "Doc Destinatario:|Destinatario:",
+    "tipoDato": "NUMERICO",
+    "reglaExtraccion": "DIRECTO",
+    "aplicaLectura": 1
+  },
+  {
+    "campoDestino": "txtDocImportador",
+    "etiquetasPdf": "Doc Importador:|Importador:",
+    "tipoDato": "NUMERICO",
+    "reglaExtraccion": "DIRECTO",
+    "aplicaLectura": 1
+  },
+  {
+    "campoDestino": "txtRucPtoLlegada",
+    "etiquetasPdf": "RUC Pto Llegada:",
+    "tipoDato": "NUMERICO",
+    "reglaExtraccion": "DIRECTO",
+    "aplicaLectura": 1
+  },
+  {
+    "campoDestino": "txtNroCita",
+    "etiquetasPdf": "Número de Cita:|Nro Cita:",
+    "tipoDato": "NUMERICO",
+    "reglaExtraccion": "DIRECTO",
+    "aplicaLectura": 1
+  },
+  {
+    "campoDestino": "txtNroAutorizaOperador",
+    "etiquetasPdf": "N° Autoriza Operador:|Autoriza Operador:",
+    "tipoDato": "NUMERICO",
+    "reglaExtraccion": "DIRECTO",
+    "aplicaLectura": 1
+  },
+  {
+    "campoDestino": "txtAnioDam",
+    "etiquetasPdf": "Año DAM:|Anio DAM:",
+    "tipoDato": "NUMERICO",
+    "reglaExtraccion": "DIRECTO",
+    "aplicaLectura": 1
+  },
+  {
+    "campoDestino": "txtAnioManifiesto",
+    "etiquetasPdf": "Mfto:",
+    "tipoDato": "FECHA",
+    "reglaExtraccion": "ANTES_DEL_GUION",
+    "aplicaLectura": 1
+  }
 ]
