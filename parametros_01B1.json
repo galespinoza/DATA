@@ -213,13 +213,13 @@
         "id": 9,
         "grupo": "TIPO_TRASLADO",
         "tipo": "1",
-        "valor": "ZONA PRIMARIA"
+        "valor": "ZONA PRIMARIA (DT)"
     },
     {
         "id": 10,
         "grupo": "TIPO_TRASLADO",
         "tipo": "2",
-        "valor": "ZONA SECUNDARIA"
+        "valor": "ZONA SECUNDARIA (9998)"
     },
     {
         "id": 16,
