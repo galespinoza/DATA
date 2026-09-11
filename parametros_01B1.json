@@ -1,296 +1,296 @@
 [
-    {
-        "id": 44,
-        "grupo": "BALANZA_EMBALAJE",
-        "tipo": "CTN",
-        "valor": "Contenedor"
-    },
-    {
-        "id": 46,
-        "grupo": "BALANZA_EMBALAJE",
-        "tipo": "GEN",
-        "valor": "Carga General"
-    },
-    {
-        "id": 45,
-        "grupo": "BALANZA_EMBALAJE",
-        "tipo": "GRN",
-        "valor": "Granel"
-    },
-    {
-        "id": 48,
-        "grupo": "BALANZA_EMBALAJE",
-        "tipo": "PZS",
-        "valor": "Piezas"
-    },
-    {
-        "id": 49,
-        "grupo": "BALANZA_EMBALAJE",
-        "tipo": "UNI",
-        "valor": "Unidades Varias"
-    },
-    {
-        "id": 47,
-        "grupo": "BALANZA_EMBALAJE",
-        "tipo": "VEI",
-        "valor": "RO RO"
-    },
-    {
-        "id": 29,
-        "grupo": "BALANZA_INGRESO",
-        "tipo": "93",
-        "valor": "CSPCP-GATE INGRESO 01"
-    },
-    {
-        "id": 30,
-        "grupo": "BALANZA_INGRESO",
-        "tipo": "94",
-        "valor": "CSPCP-GATE INGRESO 02"
-    },
-    {
-        "id": 31,
-        "grupo": "BALANZA_INGRESO",
-        "tipo": "95",
-        "valor": "CSPCP-GATE INGRESO 03"
-    },
-    {
-        "id": 32,
-        "grupo": "BALANZA_INGRESO",
-        "tipo": "96",
-        "valor": "CSPCP-GATE INGRESO 04"
-    },
-    {
-        "id": 33,
-        "grupo": "BALANZA_INGRESO",
-        "tipo": "97",
-        "valor": "CSPCP-GATE INGRESO 05"
-    },
-    {
-        "id": 34,
-        "grupo": "BALANZA_INGRESO",
-        "tipo": "98",
-        "valor": "CSPCP-GATE INGRESO 06"
-    },
-    {
-        "id": 35,
-        "grupo": "BALANZA_INGRESO",
-        "tipo": "99",
-        "valor": "CSPCP-GATE INGRESO 07"
-    },
-    {
-        "id": 36,
-        "grupo": "BALANZA_SALIDA",
-        "tipo": "A1",
-        "valor": "CSPCP-GATE SALIDA 01"
-    },
-    {
-        "id": 37,
-        "grupo": "BALANZA_SALIDA",
-        "tipo": "A2",
-        "valor": "CSPCP-GATE SALIDA 02"
-    },
-    {
-        "id": 38,
-        "grupo": "BALANZA_SALIDA",
-        "tipo": "A3",
-        "valor": "CSPCP-GATE SALIDA 03"
-    },
-    {
-        "id": 39,
-        "grupo": "BALANZA_SALIDA",
-        "tipo": "A4",
-        "valor": "CSPCP-GATE SALIDA 04"
-    },
-    {
-        "id": 40,
-        "grupo": "BALANZA_SALIDA",
-        "tipo": "A5",
-        "valor": "CSPCP-GATE SALIDA 05"
-    },
-    {
-        "id": 41,
-        "grupo": "BALANZA_SALIDA",
-        "tipo": "A6",
-        "valor": "CSPCP-GATE SALIDA 06"
-    },
-    {
-        "id": 42,
-        "grupo": "BALANZA_SALIDA",
-        "tipo": "A7",
-        "valor": "CSPCP-GATE SALIDA 07"
-    },
-    {
-        "id": 43,
-        "grupo": "BALANZA_SALIDA",
-        "tipo": "A8",
-        "valor": "CSPCP-CI 01"
-    },
-    {
-        "id": 27,
-        "grupo": "CHOFER_TIPO_ID",
-        "tipo": "3",
-        "valor": "DNI"
-    },
-    {
-        "id": 28,
-        "grupo": "CHOFER_TIPO_ID",
-        "tipo": "7",
-        "valor": "CEX"
-    },
-    {
-        "id": 11,
-        "grupo": "DOC_COD",
-        "tipo": "01",
-        "valor": "DESCARGA DE MERCANCIA (NOTA DE TARJA)"
-    },
-    {
-        "id": 12,
-        "grupo": "DOC_COD",
-        "tipo": "02",
-        "valor": "DAM"
-    },
-    {
-        "id": 13,
-        "grupo": "DOC_COD",
-        "tipo": "03",
-        "valor": "RD DE SALIDA (AUTORIZACION DE SALIDA)"
-    },
-    {
-        "id": 14,
-        "grupo": "DOC_COD",
-        "tipo": "99",
-        "valor": "OTROS"
-    },
-    {
-        "id": 1,
-        "grupo": "TIPO_SALIDA",
-        "tipo": "06",
-        "valor": "CIGÜEÑA CON VEHICULOS AL INTERIOR"
-    },
-    {
-        "id": 2,
-        "grupo": "TIPO_SALIDA",
-        "tipo": "07",
-        "valor": "VEHICULO POR PROPIOS MEDIOS"
-    },
-    {
-        "id": 3,
-        "grupo": "TIPO_SALIDA",
-        "tipo": "08",
-        "valor": "CONTENEDOR VACIO"
-    },
-    {
-        "id": 4,
-        "grupo": "TIPO_SALIDA",
-        "tipo": "09",
-        "valor": "CONTENEDOR CON CARGA"
-    },
-    {
-        "id": 5,
-        "grupo": "TIPO_SALIDA",
-        "tipo": "10",
-        "valor": "GRANEL SOLIDOS"
-    },
-    {
-        "id": 6,
-        "grupo": "TIPO_SALIDA",
-        "tipo": "12",
-        "valor": "GRANEL MINERAL"
-    },
-    {
-        "id": 7,
-        "grupo": "TIPO_SALIDA",
-        "tipo": "13",
-        "valor": "GRANEL LIQUIDOS"
-    },
-    {
-        "id": 8,
-        "grupo": "TIPO_SALIDA",
-        "tipo": "99",
-        "valor": "CARGA SUELTA"
-    },
-    {
-        "id": 9,
-        "grupo": "TIPO_TRASLADO",
-        "tipo": "1",
-        "valor": "ZONA PRIMARIA (DT)"
-    },
-    {
-        "id": 10,
-        "grupo": "TIPO_TRASLADO",
-        "tipo": "2",
-        "valor": "ZONA SECUNDARIA (9998)"
-    },
-    {
-        "id": 16,
-        "grupo": "TRANSP_DOC_TIPO",
-        "tipo": "3",
-        "valor": "DNI"
-    },
-    {
-        "id": 15,
-        "grupo": "TRANSP_DOC_TIPO",
-        "tipo": "4",
-        "valor": "RUC"
-    },
-    {
-        "id": 17,
-        "grupo": "TRANSP_TIPO",
-        "tipo": "150",
-        "valor": "General Cargo Vessel"
-    },
-    {
-        "id": 18,
-        "grupo": "TRANSP_TIPO",
-        "tipo": "1501",
-        "valor": "Grain Vessel"
-    },
-    {
-        "id": 19,
-        "grupo": "TRANSP_TIPO",
-        "tipo": "1512",
-        "valor": "RORO Vessel"
-    },
-    {
-        "id": 20,
-        "grupo": "TRANSP_TIPO",
-        "tipo": "152",
-        "valor": "Bulk Carrier"
-    },
-    {
-        "id": 22,
-        "grupo": "TRANSP_TIPO",
-        "tipo": "31",
-        "valor": "Camion"
-    },
-    {
-        "id": 21,
-        "grupo": "TRANSP_TIPO",
-        "tipo": "83",
-        "valor": "Container Vessel"
-    },
-    {
-        "id": 25,
-        "grupo": "TRANSP_TIPO_OP",
-        "tipo": "API",
-        "valor": "APILAMIENTO DE CONTENEDORES"
-    },
-    {
-        "id": 26,
-        "grupo": "TRANSP_TIPO_OP",
-        "tipo": "DDA",
-        "valor": "SALIDA DE CARGA CON ACTA DE ENTREGA - ADUANA"
-    },
-    {
-        "id": 23,
-        "grupo": "TRANSP_TIPO_OP",
-        "tipo": "DDI",
-        "valor": "DESCARGA DIRECTA INTERNACIONAL"
-    },
-    {
-        "id": 24,
-        "grupo": "TRANSP_TIPO_OP",
-        "tipo": "DII",
-        "valor": "DESCARGA INDIRECTA INTERNACIONAL"
-    }
+  {
+    "id": 1,
+    "grupo": "TIPO_SALIDA",
+    "tipo": "06",
+    "valor": "CIGÜEÑA CON VEHICULOS AL INTERIOR"
+  },
+  {
+    "id": 2,
+    "grupo": "TIPO_SALIDA",
+    "tipo": "07",
+    "valor": "VEHICULO POR PROPIOS MEDIOS"
+  },
+  {
+    "id": 3,
+    "grupo": "TIPO_SALIDA",
+    "tipo": "08",
+    "valor": "CONTENEDOR VACIO"
+  },
+  {
+    "id": 4,
+    "grupo": "TIPO_SALIDA",
+    "tipo": "09",
+    "valor": "CONTENEDOR CON CARGA"
+  },
+  {
+    "id": 5,
+    "grupo": "TIPO_SALIDA",
+    "tipo": "10",
+    "valor": "GRANEL SOLIDOS"
+  },
+  {
+    "id": 6,
+    "grupo": "TIPO_SALIDA",
+    "tipo": "12",
+    "valor": "GRANEL MINERAL"
+  },
+  {
+    "id": 7,
+    "grupo": "TIPO_SALIDA",
+    "tipo": "13",
+    "valor": "GRANEL LIQUIDOS"
+  },
+  {
+    "id": 8,
+    "grupo": "TIPO_SALIDA",
+    "tipo": "99",
+    "valor": "CARGA SUELTA"
+  },
+  {
+    "id": 9,
+    "grupo": "TIPO_TRASLADO",
+    "tipo": "1",
+    "valor": "ZONA PRIMARIA (DT)"
+  },
+  {
+    "id": 10,
+    "grupo": "TIPO_TRASLADO",
+    "tipo": "2",
+    "valor": "ZONA SECUNDARIA (9998)"
+  },
+  {
+    "id": 11,
+    "grupo": "DOC_COD",
+    "tipo": "01",
+    "valor": "DESCARGA DE MERCANCIA (NOTA DE TARJA)"
+  },
+  {
+    "id": 12,
+    "grupo": "DOC_COD",
+    "tipo": "02",
+    "valor": "DAM"
+  },
+  {
+    "id": 13,
+    "grupo": "DOC_COD",
+    "tipo": "03",
+    "valor": "RD DE SALIDA (AUTORIZACION DE SALIDA)"
+  },
+  {
+    "id": 14,
+    "grupo": "DOC_COD",
+    "tipo": "99",
+    "valor": "OTROS"
+  },
+  {
+    "id": 15,
+    "grupo": "TRANSP_DOC_TIPO",
+    "tipo": "4",
+    "valor": "RUC"
+  },
+  {
+    "id": 16,
+    "grupo": "TRANSP_DOC_TIPO",
+    "tipo": "3",
+    "valor": "DNI"
+  },
+  {
+    "id": 17,
+    "grupo": "TRANSP_TIPO",
+    "tipo": "150",
+    "valor": "General Cargo Vessel"
+  },
+  {
+    "id": 18,
+    "grupo": "TRANSP_TIPO",
+    "tipo": "1501",
+    "valor": "Grain Vessel"
+  },
+  {
+    "id": 19,
+    "grupo": "TRANSP_TIPO",
+    "tipo": "1512",
+    "valor": "RORO Vessel"
+  },
+  {
+    "id": 20,
+    "grupo": "TRANSP_TIPO",
+    "tipo": "152",
+    "valor": "Bulk Carrier"
+  },
+  {
+    "id": 21,
+    "grupo": "TRANSP_TIPO",
+    "tipo": "83",
+    "valor": "Container Vessel"
+  },
+  {
+    "id": 22,
+    "grupo": "TRANSP_TIPO",
+    "tipo": "31",
+    "valor": "Camion"
+  },
+  {
+    "id": 23,
+    "grupo": "TRANSP_TIPO_OP",
+    "tipo": "DDI",
+    "valor": "DESCARGA DIRECTA INTERNACIONAL"
+  },
+  {
+    "id": 24,
+    "grupo": "TRANSP_TIPO_OP",
+    "tipo": "DII",
+    "valor": "DESCARGA INDIRECTA INTERNACIONAL"
+  },
+  {
+    "id": 25,
+    "grupo": "TRANSP_TIPO_OP",
+    "tipo": "API",
+    "valor": "APILAMIENTO DE CONTENEDORES"
+  },
+  {
+    "id": 26,
+    "grupo": "TRANSP_TIPO_OP",
+    "tipo": "DDA",
+    "valor": "SALIDA DE CARGA CON ACTA DE ENTREGA - ADUANA"
+  },
+  {
+    "id": 27,
+    "grupo": "CHOFER_TIPO_ID",
+    "tipo": "3",
+    "valor": "DNI"
+  },
+  {
+    "id": 28,
+    "grupo": "CHOFER_TIPO_ID",
+    "tipo": "7",
+    "valor": "CEX"
+  },
+  {
+    "id": 29,
+    "grupo": "BALANZA_INGRESO",
+    "tipo": "93",
+    "valor": "CSPCP-GATE INGRESO 01"
+  },
+  {
+    "id": 30,
+    "grupo": "BALANZA_INGRESO",
+    "tipo": "94",
+    "valor": "CSPCP-GATE INGRESO 02"
+  },
+  {
+    "id": 31,
+    "grupo": "BALANZA_INGRESO",
+    "tipo": "95",
+    "valor": "CSPCP-GATE INGRESO 03"
+  },
+  {
+    "id": 32,
+    "grupo": "BALANZA_INGRESO",
+    "tipo": "96",
+    "valor": "CSPCP-GATE INGRESO 04"
+  },
+  {
+    "id": 33,
+    "grupo": "BALANZA_INGRESO",
+    "tipo": "97",
+    "valor": "CSPCP-GATE INGRESO 05"
+  },
+  {
+    "id": 34,
+    "grupo": "BALANZA_INGRESO",
+    "tipo": "98",
+    "valor": "CSPCP-GATE INGRESO 06"
+  },
+  {
+    "id": 35,
+    "grupo": "BALANZA_INGRESO",
+    "tipo": "99",
+    "valor": "CSPCP-GATE INGRESO 07"
+  },
+  {
+    "id": 36,
+    "grupo": "BALANZA_SALIDA",
+    "tipo": "A1",
+    "valor": "CSPCP-GATE SALIDA 01"
+  },
+  {
+    "id": 37,
+    "grupo": "BALANZA_SALIDA",
+    "tipo": "A2",
+    "valor": "CSPCP-GATE SALIDA 02"
+  },
+  {
+    "id": 38,
+    "grupo": "BALANZA_SALIDA",
+    "tipo": "A3",
+    "valor": "CSPCP-GATE SALIDA 03"
+  },
+  {
+    "id": 39,
+    "grupo": "BALANZA_SALIDA",
+    "tipo": "A4",
+    "valor": "CSPCP-GATE SALIDA 04"
+  },
+  {
+    "id": 40,
+    "grupo": "BALANZA_SALIDA",
+    "tipo": "A5",
+    "valor": "CSPCP-GATE SALIDA 05"
+  },
+  {
+    "id": 41,
+    "grupo": "BALANZA_SALIDA",
+    "tipo": "A6",
+    "valor": "CSPCP-GATE SALIDA 06"
+  },
+  {
+    "id": 42,
+    "grupo": "BALANZA_SALIDA",
+    "tipo": "A7",
+    "valor": "CSPCP-GATE SALIDA 07"
+  },
+  {
+    "id": 43,
+    "grupo": "BALANZA_SALIDA",
+    "tipo": "A8",
+    "valor": "CSPCP-CI 01"
+  },
+  {
+    "id": 44,
+    "grupo": "BALANZA_EMBALAJE",
+    "tipo": "CTN",
+    "valor": "Contenedor"
+  },
+  {
+    "id": 45,
+    "grupo": "BALANZA_EMBALAJE",
+    "tipo": "GRN",
+    "valor": "Granel"
+  },
+  {
+    "id": 46,
+    "grupo": "BALANZA_EMBALAJE",
+    "tipo": "GEN",
+    "valor": "Carga General"
+  },
+  {
+    "id": 47,
+    "grupo": "BALANZA_EMBALAJE",
+    "tipo": "VEI",
+    "valor": "RO RO"
+  },
+  {
+    "id": 48,
+    "grupo": "BALANZA_EMBALAJE",
+    "tipo": "PZS",
+    "valor": "Piezas"
+  },
+  {
+    "id": 49,
+    "grupo": "BALANZA_EMBALAJE",
+    "tipo": "UNI",
+    "valor": "Unidades Varias"
+  }
 ]
