@@ -1,0 +1,562 @@
+[
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/FunctionalReferenceID",
+        "texto_representativo": "Año y Número de la orden interna del operador (DT, despachador de aduana/OEA)",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/Submitter/ID/@schemeID",
+        "texto_representativo": "Tipo de Documento del Operador que transmite",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/Submitter/ID",
+        "texto_representativo": "Ruc del Operador que transmite",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/Submitter/RoleCode",
+        "texto_representativo": "Tipo de Operador que transmite (Despachador de aduana,DT,OEA)",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./DeclarationOffice/ID",
+        "texto_representativo": "Aduana de presentación",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/AdditionalDocument[TypeCode=\"785\"]/CategoryCode",
+        "texto_representativo": "Codigo de via de manifiesto",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/AdditionalDocument[TypeCode=\"785\"]/ID",
+        "texto_representativo": "Numero de manifiesto",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/AdditionalDocument[TypeCode=\"785\"]/IssueDateTime/ds:DateTimeString[@formatCode=\"602\"]",
+        "texto_representativo": "Año de manifiesto",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/AdditionalDocument[TypeCode=\"785\"]/issueLocationID",
+        "texto_representativo": "Codigo de aduana del manifiesto",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/BorderTransportMeans/[ModeCode=\"00\"]",
+        "texto_representativo": "Transporte Internacional",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/BorderTransportMeans/[ModeCode=\"00\"]/ID",
+        "texto_representativo": "Nombre de la nave a embarcarse (martimo) o numero de vuelo (aereo) o placa de vehículo (terrestre)  o fluvial",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/BorderTransportMeans/[ModeCode=\"00\"]/DepartureDateTime/ds:DateTimeString[@formatCode=\"202\"]",
+        "texto_representativo": "Fecha estimada de salida (zarpe-marítima, vuelo-aereo)",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/BorderTransportMeans/[ModeCode=\"00\"]/TransportMeansOwner/ID/@schemeID",
+        "texto_representativo": "Tipo de documento de identidad del representante del transportista internacional (RUC y CE solo en terrestre )",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/BorderTransportMeans/[ModeCode=\"00\"]/TransportMeansOwner/ID",
+        "texto_representativo": "Número de documento de identidad del representante del trasportista internacional",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/BorderTransportMeans[ModeCode=\"3\"]",
+        "texto_representativo": "Información complementaria (0..n)",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/BorderTransportMeans/[ModeCode=\"3\"]/OperationTypeCode",
+        "texto_representativo": "Secuencia de vinculación de información complementaria",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/BorderTransportMeans/[ModeCode=\"3\"]/IdentificationTypeCode",
+        "texto_representativo": "Serie de guía de remisión del transportista",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/BorderTransportMeans/[ModeCode=\"3\"]/ID",
+        "texto_representativo": "Placa del vehículo",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/BorderTransportMeans/[ModeCode=\"3\"]/Name",
+        "texto_representativo": "Numero de guia de remision del transportista",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/BorderTransportMeans[ModeCode=\"3\"]/Itinerary",
+        "texto_representativo": "Remolque  (0..n)",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/BorderTransportMeans[ModeCode=\"3\"]/Itinerary/ID",
+        "texto_representativo": "Placa del remolque",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/BorderTransportMeans/[ModeCode=\"3\"]/DepartureDateTime/ds:DateTimeString[@formatCode=\"202\"]",
+        "texto_representativo": "Fecha y hora de salida del contenedor/bulto/pallet del deposito temporal o local del exportador.",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/BorderTransportMeans/[ModeCode=\"3\"]/GrossWeightMeasure",
+        "texto_representativo": "Peso General",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/BorderTransportMeans/[ModeCode=\"3\"]/Master/ID/@schemeID",
+        "texto_representativo": "Tipo de documento de identificación del conductor",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/BorderTransportMeans/[ModeCode=\"3\"]/Master/ID",
+        "texto_representativo": "Número de documento del conductor",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/BorderTransportMeans/[ModeCode=\"3\"]/TransportMeansOwner/ID",
+        "texto_representativo": "Ruc de empresa transportista",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/Consignment",
+        "texto_representativo": "Carga a embarcarse (1..n)",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/Consignment/TotalGrossMassMeasure",
+        "texto_representativo": "Peso neto  (Peso bruto de la RM o DAM: mercancía mas sacos, cajas, pallets)",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/Consignment/AdditionalDocument[TypeCode=\"44\"]",
+        "texto_representativo": "Vinculo a Informacion Complementaria (1..n)",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/Consignment/AdditionalDocument[TypeCode=\"44\"]/ID",
+        "texto_representativo": "Número secuencia de referencia de la declaración con la que se quiere asociar",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/Consignment/AdditionalDocument[TypeCode=\"830\"]",
+        "texto_representativo": "Vínculo a Declaraciones asociadas (1..n)",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/Consignment/AdditionalDocument[TypeCode=\"830\"]/ID",
+        "texto_representativo": "Número secuencia de referencia de la declaración con la que se quiere asociar",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/Consignment/AdditionalInformation[StatementTypeCode=\"AAQ\"]/Content",
+        "texto_representativo": "Cantidad de bultos",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/Consignment/AdditionalInformation[StatementTypeCode=\"AFB\"]/Content",
+        "texto_representativo": "Descripcion de la mercancia",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/Consignment/AdditionalInformation[StatementTypeCode=\"AHN\"]/Content",
+        "texto_representativo": "Estado de la Carga INI",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/Consignment/AdditionalInformation[StatementTypeCode=\"ACH\"]",
+        "texto_representativo": "Relación de indicadores",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/Consignment/AdditionalInformation[StatementTypeCode=\"ACH\"][StatementCode=\"68\"]",
+        "texto_representativo": "Indicador de carga refrigerada",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/Consignment/AdditionalInformation[StatementTypeCode=\"ACH\"][StatementCode=\"70\"]",
+        "texto_representativo": "Indicador de transporte interno de local",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/Consignment/AdditionalInformation[StatementTypeCode=\"ACH\"][StatementCode=\"58\"]",
+        "texto_representativo": "Indicador de sustento de rectificación",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/Consignment/AdditionalInformation[StatementTypeCode=\"ACH\"][StatementCode=\"59\"]",
+        "texto_representativo": "Indicador de documentos digitalizados de sustento",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/Consignment/ConsignmentItem/Packaging/TypeCode",
+        "texto_representativo": "Tipo de transporte de la mercancia (C:Contenedor/Pallet B:Bulto o G:Granel)",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/Consignment/Consignor/Communication[TypeCode=\"EM\"]/ID",
+        "texto_representativo": "Correo electrónico para código QR/Código de barras",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/Consignment/TransportEquipment/CharacteristicCode",
+        "texto_representativo": "Tipo de contenedor (se hace referencia al tamaño)",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/Consignment/TransportEquipment/FullnessCode",
+        "texto_representativo": "Tipo de ingreso del contenedor al deposito temporal\n0 - Contenedor se lleno en el deposito temporal\n1 - contenedor ingreso lleno",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/Consignment/TransportEquipment/ID",
+        "texto_representativo": "Numero de contenedor o Pallet",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/Consignment/TransportEquipment/Seal",
+        "texto_representativo": "Precintos(0..n)",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/Consignment/TransportEquipment/Seal/ResealCode",
+        "texto_representativo": "Indicador de cambio del precinto",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/Consignment/TransportEquipment/Seal/ID",
+        "texto_representativo": "Número de precinto",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/Consignment/TransportEquipment/Seal/ConditionCode",
+        "texto_representativo": "Estado del precinto",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/Consignment/TransportEquipment/Seal/SealingParty/Name",
+        "texto_representativo": "Entidad que coloca el precinto",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/Consignment/TransportEquipment/TransportEquipmentMeasure/TareWeightMeasure",
+        "texto_representativo": "Tara del contenedor o Pallet (Kg)",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/Consignment/TransportEquipment/Status/EventStatusCode",
+        "texto_representativo": "Condición de la carga en el contenedor",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/FinalTransportMeansLoadingPlace/ID",
+        "texto_representativo": "Ruc del Operador Portuario/ Aeroportuario de salida que recibirá la carga(en terrestre no hay)",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/GoodsShipment",
+        "texto_representativo": "Declaraciones (1..n)",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/SequenceNumeric",
+        "texto_representativo": "Número secuencia de referencia",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/GoodsShipment/AdditionalDocument[TypeCode=\"830\"]/CategoryCode",
+        "texto_representativo": "Regimen de la DAM",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/GoodsShipment/AdditionalDocument[TypeCode=\"830\"]/ID",
+        "texto_representativo": "Numero de la DAM",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/GoodsShipment/AdditionalDocument[TypeCode=\"830\"]/IssueDateTime/ds:DateTimeString[@formatCode=\"602\"]",
+        "texto_representativo": "Año de la DAM",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/GoodsShipment/AdditionalDocument[TypeCode=\"830\"]/IssueLocationName",
+        "texto_representativo": "Aduana de la DAM",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/GoodsShipment/AdditionalDocument[TypeCode=\"830\"]/NationalReference",
+        "texto_representativo": "Código de operación de documento asociado: 01:Exportación courier, 13:Exportación simplificada / Modalidad (Dutty Frre y transbordo)",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/GoodsShipment/AdditionalDocument[CategoryCode=\"GA\"][TypeCode=\"730\"]/Submitter/ID/@schemeID",
+        "texto_representativo": "Tipo de documento del auxiliar de despacho",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/GoodsShipment/AdditionalDocument[CategoryCode=\"GA\"][TypeCode=\"730\"]/Submitter/ID",
+        "texto_representativo": "Número de documento de identidad del auxiliar de despacho",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/GoodsShipment/AdditionalDocument[TypeCode=\"335\"]",
+        "texto_representativo": "Aceptación de la reserva (0..n)",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/GoodsShipment/AdditionalDocument[TypeCode=\"335\"]/ID",
+        "texto_representativo": "Número de la reserva de carga (Booking , Preguia). Solo para local del exportador.",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/GoodsShipment/AdditionalDocument[TypeCode=\"335\"]/IssueDateTime/ds:DateTimeString[@formatCode=\"602\"]",
+        "texto_representativo": "Año de la reserva de carga (Booking , Preguia). Solo para local del exportador.",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/GoodsShipment/AdditionalDocument[TypeCode=\"335\"]/IssueLocationName",
+        "texto_representativo": "Aduana de la reserva de carga (Booking , Preguia). Solo para local del exportador",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/GoodsShipment/AdditionalDocument[TypeCode=\"335\"]/Name",
+        "texto_representativo": "RUC del transportista o su representante. Solo para local del exportador",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/GoodsShipment/AdditionalInformation[StatementTypeCode=\"ABG\"]/Content",
+        "texto_representativo": "Embarque parcial",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/GoodsShipment/Consignment/",
+        "texto_representativo": "Documentos de transporte por DAM (0..n)",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/GoodsShipment/Consignment//TransportContractDocument[TypeCode='704']/ID",
+        "texto_representativo": "Numero de guia aerea máster/Directo",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/GoodsShipment/Consignment//TransportContractDocument[TypeCode='705']/ID",
+        "texto_representativo": "Numero de guia aerea hijo",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/GoodsShipment/Warehouse/Name",
+        "texto_representativo": "Flag de ultima recepcion para proceder a la asignacion de canal desde el local del exportador y estado IQBF 1: ultima recepción 0: recepción parcial",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/LoadingLocation/ID",
+        "texto_representativo": "Ruc del Operador Portuario de origen",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/TypeCode",
+        "texto_representativo": "Estado de la RCE",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/PreviousDocument/ID",
+        "texto_representativo": "Número de la RCE",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/PreviousDocument/IssueDateTime/ds:DateTimeString",
+        "texto_representativo": "Año de la RCE",
+        "descripcion": ""
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/StatusCode",
+        "texto_representativo": "Código de respuesta",
+        "descripcion": "Estructura de error"
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/AdditionalInformation",
+        "texto_representativo": "Mensajes (0 .. n)",
+        "descripcion": "Estructura de error"
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/AdditionalInformation/StatementCode",
+        "texto_representativo": "Código del mensaje",
+        "descripcion": "Estructura de error"
+    },
+    {
+        "tipo_transmision": "CONSULTA_RCE",
+        "direccion": "RESPONSE",
+        "nodo_xml": "./Declaration/AdditionalInformation/StatementDescription",
+        "texto_representativo": "Descripción del mensaje",
+        "descripcion": "Estructura de error"
+    }
+]
