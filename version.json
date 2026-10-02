@@ -1,6 +1,6 @@
 {
-  "ultima_version": "1.0.91",
-  "actualizacion_obligatoria": true,
-  "fecha_lanzamiento": "2026-09-28",
-  "notas_version": "Cambio en el asunto de correo. Comuníquese con el área de TI para recibir el nuevo ejecutable."
+  "ultima_version": "1.0.92",
+  "actualizacion_obligatoria": false,
+  "fecha_lanzamiento": "2026-10-02",
+  "notas_version": "Envio de correo al consultar la transmision. Comuníquese con el área de TI para recibir el nuevo ejecutable."
 }
