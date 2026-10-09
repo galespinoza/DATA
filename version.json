@@ -1,6 +1,6 @@
 {
-  "ultima_version": "1.0.93",
-  "actualizacion_obligatoria": false,
-  "fecha_lanzamiento": "2026-10-07",
-  "notas_version": "Transmision AR02. Comuníquese con el área de TI para recibir el nuevo ejecutable."
+  "ultima_version": "1.0.94",
+  "actualizacion_obligatoria": true,
+  "fecha_lanzamiento": "2026-10-09",
+  "notas_version": "consulta RCE. Comuníquese con el área de TI para recibir el nuevo ejecutable."
 }
