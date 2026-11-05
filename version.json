@@ -1,6 +1,6 @@
 {
-  "ultima_version": "1.0.96",
+  "ultima_version": "1.0.97",
   "actualizacion_obligatoria": false,
   "fecha_lanzamiento": "2026-11-04",
-  "notas_version": "Se agrego el reporte del LMD INI y actualizo la consulta de manifiesto. Comuníquese con el área de TI para recibir el nuevo ejecutable."
+  "notas_version": "Se agrego el reporte del LMD INI y actualizo la consulta de manifiesto y modifico la consulta de la 01B1. Comuníquese con el área de TI para recibir el nuevo ejecutable."
 }
